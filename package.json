@@ -9,6 +9,6 @@
   "author": "Your Name",
   "license": "MIT",
   "dependencies": {
-    "awsome-package-erikas3": "^1.0.0"
+    "awsome-package-erikas3": "^1.0.1"
   }
 }
